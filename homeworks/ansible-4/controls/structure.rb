@@ -32,7 +32,6 @@ control 'structure' do
     'ansible/playbooks/packer_db.yml',
     'ansible/playbooks/site.yml',
     'ansible/playbooks/users.yml',
-    'ansible/playbooks/base.yml',
     'ansible/playbooks/app.yml',
     'ansible/playbooks/db.yml',
     'ansible/playbooks/deploy.yml',
